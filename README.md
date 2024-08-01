@@ -2,6 +2,8 @@
 
 Welcome to the **Movie Recommender System** machine learning project repository! This project focuses on recommending movies to content based on their preferences using collaborative filtering techniques.
 
+![movie](https://github.com/user-attachments/assets/12f7311d-31a7-42bf-a2c6-fab7523483a7)
+
 ## 📋 Contents
 
 - [Introduction](#introduction)
